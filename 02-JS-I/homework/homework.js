@@ -171,9 +171,8 @@ function esPositivo(numero) {
   else if (numero < 0){
     return "Es negativo";
   }
-  else (numero == 0){
+  else (numero == 0)
     return false;
-  }
 }
 
 function agregarSimboloExclamacion(str) {
@@ -187,14 +186,14 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  return nombre +""+ apellido; 
+  return nombre +" "+ apellido; 
 }
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return "Hola" + nombre +"!";
+  return "Hola " + nombre +"!";
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
@@ -223,7 +222,7 @@ function deEuroAdolar(euro){
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
   dolar = euro * 1.20;
-  return "la cantidad de dolares es " + dolar;
+  return dolar;
 }
 
 
@@ -236,7 +235,8 @@ function esVocal(letra){
   if (letra.length > 1){
     return "Dato incorrecto";
   }
-  else if (letra == a, e, i, o, u){
+  const vocales = ['a', 'e', 'i', 'o', 'u'];
+  if(vocales.includes(letra.toLowerCase())) {
     return "Es vocal";
   }
   return "Dato incorrecto";
