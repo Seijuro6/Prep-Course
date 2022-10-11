@@ -1,0 +1,15 @@
+FOR:
+
+basicamente es emtodo por el cual podemos lograr que un accion se repita una cierta cantidad de veces sin la necesidad 
+de especificar el proceso cada vez, basicamente seria como llenar un vaso de agua donde no estamos abriendo y cerrando 
+la llave ca da segundo hasta tener el vaso lleno si no que dejamos que el agua corra por la llave hasta que el vaso este 
+al nivel que queremos o necesitamos.
+
+&&,||,!:
+
+basicamente son operadores logicos lo que significa que hacen paret de operaciones que no dan un resultado numerico sino 
+sino de cierto verdadero cada uno representa una validacion diferente llevandolo a la practica seria como si vamos a comer 
+sabemos que para quedar llenos necesitas comer 1presa de pollo y{&&} 1 porcion de papa ahora acabamos de completar una opcion
+verdadera o true (estar llenos) pero tambien existe la opcion donde solo podemos escoger la presa de pollo o{||} la porcion 
+de papas dado como resultado un negativo o false (no quedar llenos). y por ultimo tenemos la opcion donde no{!} hay comida 
+simplemente lo contrario a que si halla algo para comer  
