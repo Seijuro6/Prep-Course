@@ -1,0 +1,7 @@
+Array:
+
+basicamente podriamos decir que un array es un conjunto o espacio (ya que es una variable)
+donde podremos meter una cantidad de datos sin importar el tipo sea numerico o alfabetico pero debemos 
+separarlo por como para poder diferenciar entre ellos algo asi como una bolsa de canicas donde cada 
+canica es un dato y pese a que pueden ser de diferentes tamaños y coloros todas son transportadas o 
+llevadas dentro de una misma bolsa. 
