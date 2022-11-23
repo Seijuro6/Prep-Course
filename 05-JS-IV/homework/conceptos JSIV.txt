@@ -1,0 +1,18 @@
+OBJETOS: basicamente es el cuerpo general donde almacenamos los datos hablando genralmente 
+	seria como el cuerpo humano compuesto de varias partes
+PROPIEDADES:son las partes que componen los objetos es donde almacenamos los valores si 
+	si usaramos el mismo ejemplo anterior seria las partes de las que esta compuesta el cuerpo
+METODOS: basicamente es una funcion pero que se encuentra diseñada dentro de un objeto(no siempre
+	y no necesariamente dentro), son funciones y podriamos determinarlas como las acciones que 
+	va a realizar una parte de nuestro cuerpo  como por ejemplo pestañear es una *funcion* 
+	que realiza un componente *propieda* en un cuerpo *objeto*
+BUCLE FOR...IN: prodiamos decir que es un tipo de metod o funcion y en este caso se encarga de
+	repetir algo dentro de un rago. para el ejemplo que venimos hablando podriamos decir 
+	que seria la cantidad de veces que pestañeamos la funcion es mantener nuestro ojo hidratado 
+	entonces vamos a pestañear hasta que este hidratado y que cada ves que se este secando 
+	vuelva pestañee.
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES: esta es una forma de esprexarnos dentro de nuestro codigo 
+	para determinar una ubicacion cada uno sirve en la mayoria de los casa uno es basicamente 
+	la forma practica y facil de usar el otro (puntos vs corchetes) pero el de corchetes
+	se vuleve necesario si no queremos confundir un valor dado o nocemos el vor dado contra
+	una variable
