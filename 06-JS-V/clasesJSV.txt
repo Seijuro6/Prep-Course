@@ -1,0 +1,10 @@
+PROTOTYPE:hace referencia a un manejo interno de JS donde todo los objetos o propiedades del 
+	mismo	se pueden llegar a enlazar y permitir asi funciones o metodos compartidos es como 
+	la cocina en una casa ya que de esta se almacenan y salen los alimentos para cualquier
+	lugar dentro de la casa 
+
+CONSTRUCTOR (DE CLASES): basicamente se entiende como el formato que se utiliza en una clase
+	para crear el templete o diseño de los objetos, es el que permite al momento de crear 
+	saber que datos ingresar o en que orden. si usamos el ejemplo anterior el constructor 
+	en un casa seria el modelo de la casa que puede varia pero siempre estara determinado 
+	por cuartos comunes (cocina, baño, zona social, habitacion/es...etc)
