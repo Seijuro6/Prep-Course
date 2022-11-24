@@ -1,0 +1,5 @@
+FUNCIONES CALLBACK: podriamos decir que las funciones callback es un metodo con el cual 
+	podemos hacer uso de funciones que hallamos utilizado antes o que hallamos nombrado
+	antes	basicamente es un reciclaje que nos ayuda hacer los cadigos mas rapidos y menos
+	repetitivos
+	
