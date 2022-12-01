@@ -3,3 +3,13 @@ img{width:400px}
 #thirdDiv{height:600px ; width:500px ; background:darkslategray ; padding:50px ; border: 50px blueviolet}
 /* .thirdDiv{background-color: blue} */
 #spanId{font-size:18px ; margin: 50px}
+body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GQgAPclWnXPTXyR-cNsB5Sqdyshk6IWgiA&usqp=CAU")}
+div{text-align: center}
+/* body{ display: flex;
+    justify-content: center} */
+/* #divClass{ display: flex;
+    justify-content: center}
+#thirdDiv{ display: flex;
+    justify-content: center} */
+#thirdDiv{text-align: center;}
+/* .img{margin:0} */
