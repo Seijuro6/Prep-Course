@@ -1,6 +1,7 @@
 h1{color:midnightblue}
 img{width:400px}
-#thirdDiv{height:600px ; width:500px ; background:darkslategray ; padding:50px ; border: 50px blueviolet}
+.divClass{color: red}
+#thirdDiv{height:600px ; width:500px ; background:darkslategray ; padding:50px ; border:10px solid blueviolet}
 /* .thirdDiv{background-color: blue} */
 #spanId{font-size:18px ; margin: 50px}
 body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GQgAPclWnXPTXyR-cNsB5Sqdyshk6IWgiA&usqp=CAU"); width: 100%; height: 100%; position: absolute;}
