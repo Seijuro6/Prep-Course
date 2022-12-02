@@ -1,6 +1,6 @@
 h1{color:midnightblue}
 img{width:400px}
-.divClass{color: red}
+.divClass{color: midnightblue ; background: gray}
 #thirdDiv{height:600px ; width:500px ; background:darkslategray ; padding:50px ; border:10px solid blueviolet}
 /* .thirdDiv{background-color: blue} */
 #spanId{font-size:18px ; margin: 50px}
